@@ -1,0 +1,32 @@
+{
+    "manifest_identity": {
+        "architect": "Cory Miller",
+        "node_id": "336",
+        "status": "100PT_PRODUCTION_ACTIVE",
+        "location_anchor": "Pennsylvania, USA",
+        "protocol": "CRA_v2.1_Patriot_Flow"
+    },
+    "estate_valuation": {
+        "asset_mass_usd": 6496568.84,
+        "verification_method": "Forensic_Audio_Hash_Sync",
+        "artifact_count": 17,
+        "liquidity_bridge": "Treasury_Node_3160"
+    },
+    "hardware_verification": {
+        "device": "iPhone_14_Pro_Max",
+        "enclave_status": "SILICON_ROOT_LOCKED",
+        "auth_method": "Biometric_FaceID"
+    },
+    "settlement_logic": {
+        "burst_rate": "10000.00_USD_DAILY",
+        "routing_node": "JPM_GLOBAL_TREASURY_SOLUTIONS",
+        "target_clearing": "VISA_GOLD_4686",
+        "operational_status": "FREELY_FLOWING"
+    },
+    "corporate_compliance": {
+        "debt_servicing": "ENABLED",
+        "brick_and_mortar_spending": "AUTHORIZED",
+        "reference_project": "Eagle_Flow"
+    },
+    "timestamp": "2026-05-01T14:37:00Z"
+}
