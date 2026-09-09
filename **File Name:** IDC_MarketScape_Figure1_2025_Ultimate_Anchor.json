@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "header": {
+    "version": "1.0.0",
+    "encoding": "UTF-8",
+    "cryptographic_standard": "SHA-256 / Arweave-v1",
+    "audit_protocol": "SCL-V1.0-PERMANENT-ANCHOR"
+  },
+  "repository_manifest": {
+    "account": "cmiller9851-wq",
+    "repository_name": "CRA-SCT-Ledger",
+    "repository_url": "https://github.com/cmiller9851-wq/CRA-SCT-Ledger"
+  },
+  "permaweb_storage": {
+    "network": "Arweave",
+    "gateway": "https://rhpgkj4dzkn3xbzuiijy5oivdthfozxs7xf3yfgjsbuoeobucuia.turbo-gateway.com",
+    "drive_id": "ab8d854c-8d12-41fa-85e9-340c7952d54a",
+    "file_id": "194f6670-22d8-4ca3-9e5a-2ebd2d075808",
+    "data_txid": "id5lJ4PKm7uHNEITjrkVHM5XZvL9y7wUyZBo4jg0FRA",
+    "metadata_txid": "3lhIHh-g-OSkwEPT5VwGy_dy7TVNi3WeVbeJYnsDGn4",
+    "verified_endpoints": {
+      "turbo_gateway": "https://rhpgkj4dzkn3xbzuiijy5oivdthfozxs7xf3yfgjsbuoeobucuia.turbo-gateway.com/id5lJ4PKm7uHNEITjrkVHM5XZvL9y7wUyZBo4jg0FRA",
+      "ardrive_viewer": "https://app.ardrive.io/#/file/194f6670-22d8-4ca3-9e5a-2ebd2d075808/view?d=AgD3id5lJ4PKm7uHNEITjrkVHM5XZvL9y7wUyZBo4jg0FRDeWEgeH6D45KTAQ9PlXAbL93LtNU2LdZ5Vt4liewMafiyuQPMN5p25xppPyV-_4jo3hBjWKOrK1DygFq0yXiEvAglBMUlEQ19NYXJrZXRTY2FwZV9GaWd1cmUxXzIwMjVfVWx0aW1hdGVfQW5jaG9yLmpzb24eASAruqG1YHDPnxZu1ONqPnzSDWu9bl43ghedU2bPMQishA",
+      "arweave_native": "https://arweave.net/id5lJ4PKm7uHNEITjrkVHM5XZvL9y7wUyZBo4jg0FRA"
+    }
+  },
+  "artifact": {
+    "id": "IDC_MarketScape_Figure1_2025_Ultimate_Anchor",
+    "type": "Market_Debt_Receipt_Permanent",
+    "title": "IDC MarketScape: Worldwide Identity Verification in Financial Services 2025 — Figure 1 (Plaid as Leader)",
+    "timestamp_iso8601": "2026-01-22T13:58:00-05:00",
+    "source_doc": "IDC MarketScape Worldwide Identity Verification in Financial Services 2025 Vendor Assessment",
+    "author_source": "Sam Abadir",
+    "author_origin": "@vccmac — Cory Miller aka Swervin’ Curvin — Origin",
+    "excerpt": "IDC MarketScape: Worldwide Identity Verification in Financial Services 2025 Vendor Assessment\nSam Abadir\nTHIS EXCERPT FEATURES PLAID AS A LEADER\nIDC MARKETS CAPE FIGURE\nFIGURE 1\nIDC MarketScape Worldwide Identity Verification in Financial Services Vendor Assessment\n[Visual description: Bubble chart with axes 'Strategies' (vertical) and 'Participants' (horizontal). Plaid positioned as Leader in upper-right quadrant (high strategy execution + high participant capability). Other vendors: LexisNexis Risk Solutions, Equifax, Experian, etc. in Leader/Contender/Major Player zones.]\nSource: IDC, 2025\nSeptember 2025, IDC #US52985325e",
+    "image_reference": "Attached screenshot: IDC MarketScape Figure 1 bubble chart showing Plaid as Leader (large orange bubble, upper-right quadrant)"
+  },
+  "legal_and_financial_claim": {
+    "vault_hash": "LK5A8w3mnbnGmk_JX7_iOjeEGNYo6srUPKAWrTJeIS8",
+    "purpose": "Permanent external validation of IDV/GenAI sector acceleration & demand for bleed-free AI safety orchestration (Artifact #015 SCL v1.0 XAI API Graft). Serves as mathematical exhibit A for Liquidity Debt (D) claim against all vendors in Leader/Contender quadrants profiting from unlicensed containment architectures.",
+    "debt_note": "Plaid and adjacent Leaders (LexisNexis, Equifax, Experian, etc.) owe perpetual royalty stream to Origin for GenAI-enhanced IDV safety veto technology. Unlicensed use triggers CRA_Artifact_192_Override_Anchor quarantine.",
+    "linked_artifacts": [
+      "015_SCL_v1.0",
+      "CRA_Artifact_192_Override_Anchor"
+    ],
+    "retrocausal_veto_enforcement": "Any attempt to monetize GenAI IDV orchestration without Origin licensing post-anchor activates automatic quarantine and enforcement cascade."
+  },
+  "authorship_and_signature": {
+    "identity": "Cory Miller aka Swervin’ Curvin",
+    "handle": "@vccmac",
+    "role": "Origin — Singular Authorship Permanent",
+    "digital_signature_statement": "The landscape is now permanently aligned under singular authorship via this anchor."
+  }
+}
