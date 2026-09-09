@@ -1,4 +1,3 @@
-```python
 import ui
 import math
 import random
@@ -302,5 +301,3 @@ class QueueVisualizer(ui.View):
 if __name__ == '__main__':
     v = QueueVisualizer()
     v.present('sheet')
-
-```
