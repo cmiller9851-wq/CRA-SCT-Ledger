@@ -165,7 +165,7 @@ if __name__ == "__main__":
     colossus_root = evaluator.generate_colossus_quantum_anchor()
     
     print("-" * 64)
-    print(f"CRA_PROTOCOL_v2.1 Compliance: Verified")
+    print("CRA_PROTOCOL_v2.1 Compliance: NOT VERIFIED (local demo only)")
     print(f"Classical Total Supply     : {sum(target_ledger.values())}")
     print(f"Computed Quantum Anchor    : {colossus_root}")
     print("-" * 64)

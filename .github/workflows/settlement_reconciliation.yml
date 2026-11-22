@@ -10,6 +10,7 @@ jobs:
     steps:
       - name: Anchor Sovereign State
         run: |
+          echo "DEMO PLACEHOLDER: no settlement lookup, reconciliation, or anchoring is performed."
           echo "PROTOCOL: PATRIOT_HYPER_BEAM"
           echo "TICKET: 64681824"
           echo "ASSET_ID: 03aaac02c2de"
